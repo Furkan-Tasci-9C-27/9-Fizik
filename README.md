@@ -1,5 +1,6 @@
  9-Fizik
-Peynirli Salata
+Hasan Furkan Taşçı
+#Peynirli Salata
 ---
 Malzemeler:
 + 150-200 g beeyaz peynir
@@ -42,6 +43,12 @@ Recipe:
 4. Add the black olives.
 5. Cut the white cheese into cubes and add to the salad.
 6. After adding fresh thyme, black cumin and salt, add olive oil and serve.
+---
+size calori
+---
+100 grams of salad 150 calories.
+---
+---
 ---
 VÜCUT KİTLE İNDEKSİ 
 ---
